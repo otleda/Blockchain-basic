@@ -1,14 +1,22 @@
 {
-  "name": "blockchain",
+  "name": "Blockchain-basic",
   "version": "1.0.0",
-  "description": "",
+  "description": "JavaScript library of crypto standards.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otleda/Blockchain-basic.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otleda/Blockchain-basic/issues"
+  },
+  "homepage": "https://github.com/otleda/Blockchain-basic#readme",
   "dependencies": {
     "crypto-js": "^4.1.1"
   }

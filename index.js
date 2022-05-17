@@ -1,5 +1,6 @@
-const sha256 = require('crypto-js/sha256');
+const Block = require("./Block");
 
-const hash = sha256('adelto').toString();
+const bloco1 = new Block();
+const bloco2 = new Block();
 
-console.log(hash)
+console.log(bloco1, bloco2);
